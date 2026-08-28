@@ -1,0 +1,8 @@
+{
+  "uuid": "volume-levels@stei",
+  "name": "Volume Levels",
+  "description": "Per-application volume sliders inside the Sound Output menu of the Quick Settings panel.",
+  "shell-version": ["46", "47", "48"],
+  "url": "https://github.com/ArturEndres/ez-volume",
+  "version": 1
+}
